@@ -5,7 +5,7 @@
 /tmp
 /out-tsc
 /bazel-out
-/src/app/assets
+/src/assets
 
 
 # Node
